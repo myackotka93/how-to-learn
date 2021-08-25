@@ -1,0 +1,4 @@
+.rotation {
+    transform: rotate(360deg);
+    animation: rotation linear 20s infinite;
+  }
