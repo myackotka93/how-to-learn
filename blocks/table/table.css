@@ -1,8 +1,9 @@
 .table {
     display: flex;
     justify-content: space-between;
+    position: relative;
     width: 1100px;
     margin: 0 auto;
     flex-wrap: wrap;
-    z-index: 1;
+    padding: 0;
   }
