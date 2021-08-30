@@ -1,5 +1,5 @@
 .header__main-illustration {
-    background-image: url('/images/header-image.png');
+    background-image: url('../../../images/header-image.png');
     position: absolute;
     background-size: cover;
     bottom: 0;
